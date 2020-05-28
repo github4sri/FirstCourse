@@ -1,0 +1,36 @@
+/* Lets start with css */
+
+/* h1{
+  color: blue;
+}
+
+li{
+  color: rgb(255, 97, 0);
+}
+
+p{
+  color: #0895a8
+}
+
+h4{
+  color: rgba(255, 97, 0, 0.5);
+} */
+
+body{
+  background: url(https://www.smartertravel.com/uploads/2019/04/Seychelles-beach-1400x500.jpg);
+}
+
+div{
+  background: red;
+  border-color: blue;
+  border-width: thick;
+  border-style:double;
+}
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}
