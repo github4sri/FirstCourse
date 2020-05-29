@@ -1,0 +1,21 @@
+.firstDiv{
+  color: blue;
+}
+
+.secondDiv{
+  color: red;
+}
+
+#singledOut{
+  color: green;
+  text-decoration: line-through;
+}
+
+li a{
+   color: red;
+}
+
+li a[href = "wwww.twitter.com"]{
+  color: gray;
+  border: 2px solid orange;
+}
